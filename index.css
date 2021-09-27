@@ -5,3 +5,9 @@ body{
 h1{
     text-align: center;
 }
+
+ul{
+    text-align:justify;
+    font-size:1.3em;
+    font-weight:bold;
+}
