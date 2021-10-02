@@ -1,5 +1,8 @@
-body{
+html{
     background-color:lightcyan;
+}
+body{
+    background-color: white;
 }
 
 h1{
