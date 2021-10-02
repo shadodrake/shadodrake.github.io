@@ -1,8 +1,11 @@
 html{
-    background-color:lightcyan;
+    background-color:lightskyblue;
 }
 body{
+    max-width:1000px;
+    margin: 0 auto;
     background-color: white;
+    padding:1em;
 }
 
 h1{

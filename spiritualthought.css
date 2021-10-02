@@ -1,5 +1,11 @@
+html{
+    background-color:lightskyblue;
+}
 body{
-    background-color:lightcyan;
+    max-width:1000px;
+    margin: 0 auto;
+    background-color: white;
+    padding:1em;
 }
 
 h1{
